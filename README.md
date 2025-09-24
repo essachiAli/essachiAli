@@ -1,67 +1,20 @@
-# [your-github-username]
+<h1 align="center">Hi 👋, I'm Ali</h1>
+<h3 align="center">A passionate full stack developer from Morocco</h3>
 
-> 🚀 Passionate developer focused on building web applications, APIs, and data-driven tools.  
-> Always curious about learning new frameworks and automating repetitive workflows.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=essachiali&label=Profile%20views&color=0e75b6&style=flat" alt="essachiali" /> </p>
 
----
+- 🌱 I’m currently learning **Android**
 
-## 🧰 Skills
+- 👨‍💻 All of my projects are available at [essachi.com](essachi.com)
 
-*(These are inferred from your repositories; please adjust if needed)*
+- 📫 How to reach me **essachi.service@gmail.com**
 
-- **Languages**: JavaScript, Python, (add others you use)  
-- **Frameworks / Libraries**: React, Express, Flask / FastAPI, (others…)  
-- **Databases & Storage**: PostgreSQL, SQLite, MongoDB, (etc.)  
-- **DevOps & Tools**: Docker, Git, GitHub Actions, (CI/CD, maybe Kubernetes, etc.)  
-- **Other Tech**: REST APIs, GraphQL, WebSockets, (testing frameworks, linters, etc.)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/in/essachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/essachi" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-## 📂 Recent Projects
-
-Here are a few of my recent/pinned repositories:
-
-| Repository | Description | ⭐ / 🍴 |
-|------------|-------------|--------|
-| **[repo-one]** | A full-stack web app that does **X functionality** using React + Express + PostgreSQL | ★ 123 / 🍴 45 |
-| **[repo-two]** | A data processing pipeline in Python that ingests, cleans, and visualizes data | ★ 87 / 🍴 20 |
-| **[repo-three]** | A microservice built with Flask / FastAPI + Docker, used for **Y** | ★ 54 / 🍴 15 |
-| **[repo-four]** | Utility / CLI tool (or library) to automate **Z** | ★ 30 / 🍴 8 |
-| **[repo-five]** | A project with GitHub Actions for CI/CD showcasing automated testing & deployment | ★ 22 / 🍴 10 |
-
-> ℹ️ *Star/fork counts will auto-update when you embed from GitHub or use a badge service.*
-
----
-
-## 📈 GitHub Activity
-
-- I’ve made **X** commits across my repositories.
-- Opened **Y** issues and **Z** pull requests (both my own and in other repos).
-- I frequently collaborate on other projects and accept contributions to mine.
-- I use **GitHub Actions** in several repositories (e.g. `[repo-five]`) to automate CI/CD (tests, builds, linting, deployment).
-
----
-
-## 📊 GitHub Stats & Badges
-
-| Metric | Badge / Chart |
-|--------|----------------|
-| Top languages | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact) |
-| General stats | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true) |
-| Profile views | ![Profile Views](https://komarev.com/ghpvc/?username=[your-github-username]) |
-| Streak | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]) |
-
-> Note: Insert those image links (with your actual username) and verify they render correctly.
-
----
-
-## 📬 Contact & Socials
-
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
-- 🐦 Twitter / X: [@yourhandle](https://twitter.com/yourhandle)  
-- 🌐 Personal website / blog: [yourdomain.com](https://yourdomain.com)  
-
----
-
-Thanks for visiting! Feel free to explore my repos — if you see something you want to collaborate on or have feedback, drop me a line. 😊
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=essachiali&show_icons=true&locale=en&layout=compact" alt="essachiali" /></p>
